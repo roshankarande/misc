@@ -1,0 +1,348 @@
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 256, tx: 16, ty: 16, gridX: 1, gridY: 2, reps: 10000, epsilon: 9.15527e-05
+
+Using Single precision arithmetic
+
+
+Device computation time: 1.677226 sec. [200.059090 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@   256     8      8    10000   0.00e+00     0.0  1.68e+00  200.1     N    N    N    N    4
+
+
+Device result: answers matched to within 9.15527e-05
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 512, tx: 16, ty: 16, gridX: 2, gridY: 3, reps: 10000, epsilon: 0.000183105
+
+Using Single precision arithmetic
+
+
+Device computation time: 3.252575 sec. [825.301377 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@   512     8      8    10000   0.00e+00     0.0  3.25e+00  825.3     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000183105
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 768, tx: 16, ty: 16, gridX: 3, gridY: 4, reps: 10000, epsilon: 0.000274658
+
+Using Single precision arithmetic
+
+
+Device computation time: 4.987078 sec. [1816.634168 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@   768     8      8    10000   0.00e+00     0.0  4.99e+00 1816.6     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000274658
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 1023, tx: 16, ty: 16, gridX: 4, gridY: 6, reps: 10000, epsilon: 0.000365853
+
+Using Single precision arithmetic
+
+
+Device computation time: 7.225277 sec. [2963.482715 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  1023     8      8    10000   0.00e+00     0.0  7.23e+00 2963.5     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000365853
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 1024, tx: 16, ty: 16, gridX: 4, gridY: 6, reps: 10000, epsilon: 0.000366211
+
+Using Single precision arithmetic
+
+
+Device computation time: 7.055746 sec. [3043.595424 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  1024     8      8    10000   0.00e+00     0.0  7.06e+00 3043.6     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000366211
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 1025, tx: 16, ty: 16, gridX: 5, gridY: 6, reps: 10000, epsilon: 0.000366569
+
+Using Single precision arithmetic
+
+
+Device computation time: 7.653344 sec. [2814.170216 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  1025     8      8    10000   0.00e+00     0.0  7.65e+00 2814.2     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000366569
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 2047, tx: 16, ty: 16, gridX: 8, gridY: 11, reps: 1000, epsilon: 0.000732064
+
+Using Single precision arithmetic
+
+
+Device computation time: 4.604176 sec. [3725.903502 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  2047     8      8    1000   0.00e+00     0.0  4.60e+00 3725.9     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000732064
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 2048, tx: 16, ty: 16, gridX: 8, gridY: 11, reps: 1000, epsilon: 0.000732422
+
+Using Single precision arithmetic
+
+
+Device computation time: 4.480505 sec. [3834.360016 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  2048     8      8    1000   0.00e+00     0.0  4.48e+00 3834.4     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000732422
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 2049, tx: 16, ty: 16, gridX: 9, gridY: 11, reps: 1000, epsilon: 0.00073278
+
+Using Single precision arithmetic
+
+
+Device computation time: 4.740846 sec. [3629.109149 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  2049     8      8    1000   0.00e+00     0.0  4.74e+00 3629.1     N    N    N    N    4
+
+
+Device result: answers matched to within 0.00073278
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 4095, tx: 16, ty: 16, gridX: 16, gridY: 22, reps: 100, epsilon: 0.00146449
+
+Using Single precision arithmetic
+
+
+Device computation time: 3.035521 sec. [4524.373687 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  4095     8      8    100   0.00e+00     0.0  3.04e+00 4524.4     N    N    N    N    4
+
+
+Device result: answers matched to within 0.00146449
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 4096, tx: 16, ty: 16, gridX: 16, gridY: 22, reps: 100, epsilon: 0.00146484
+
+Using Single precision arithmetic
+
+
+Device computation time: 3.006434 sec. [4571.494173 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  4096     8      8    100   0.00e+00     0.0  3.01e+00 4571.5     N    N    N    N    4
+
+
+Device result: answers matched to within 0.00146484
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 4097, tx: 16, ty: 16, gridX: 17, gridY: 22, reps: 100, epsilon: 0.0014652
+
+Using Single precision arithmetic
+
+
+Device computation time: 3.368747 sec. [4082.813031 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  4097     8      8    100   0.00e+00     0.0  3.37e+00 4082.8     N    N    N    N    4
+
+
+Device result: answers matched to within 0.0014652
+

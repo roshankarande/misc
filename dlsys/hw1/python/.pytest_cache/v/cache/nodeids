@@ -1,0 +1,9 @@
+[
+  "test_autograd_hw.py::test_divide_forward",
+  "test_autograd_hw.py::test_matmul_batched_backward",
+  "test_autograd_hw.py::test_matmul_simple_backward",
+  "test_autograd_hw.py::test_negate_backward",
+  "test_autograd_hw.py::test_reshape_backward",
+  "test_autograd_hw.py::test_transpose_backward",
+  "test_autograd_hw.py::test_transpose_forward"
+]

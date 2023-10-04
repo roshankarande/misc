@@ -1,0 +1,4 @@
+{
+  "test_autograd_hw.py::test_transpose_backward": true,
+  "test_autograd_hw.py": true
+}

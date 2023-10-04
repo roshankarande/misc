@@ -1,0 +1,5 @@
+[
+  "tests/test_simple_ml.py::submit_softmax_regression_epoch_cpp",
+  "tests/test_simple_ml.py::test_add",
+  "tests/test_simple_ml.py::test_softmax_regression_epoch_cpp"
+]

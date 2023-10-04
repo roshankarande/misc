@@ -1,0 +1,145 @@
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 256, tx: 4, ty: 4, gridX: 8, gridY: 8, reps: 500, epsilon: 9.15527e-05
+
+Using Single precision arithmetic
+
+
+Device computation time: 0.072321 sec. [231.982067 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@   256     8      8    500   0.00e+00     0.0  7.23e-02  232.0     N    N    N    N    4
+
+
+Device result: answers matched to within 9.15527e-05
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 512, tx: 4, ty: 4, gridX: 16, gridY: 16, reps: 500, epsilon: 0.000183105
+
+Using Single precision arithmetic
+
+
+Device computation time: 0.493980 sec. [271.706844 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@   512     8      8    500   0.00e+00     0.0  4.94e-01  271.7     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000183105
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 1024, tx: 4, ty: 4, gridX: 32, gridY: 32, reps: 500, epsilon: 0.000366211
+
+Using Single precision arithmetic
+
+
+Device computation time: 4.340728 sec. [247.364454 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  1024     8      8    500   0.00e+00     0.0  4.34e+00  247.4     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000366211
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 2048, tx: 4, ty: 4, gridX: 64, gridY: 64, reps: 500, epsilon: 0.000732422
+
+Using Single precision arithmetic
+
+
+Device computation time: 38.217664 sec. [224.763465 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  2048     8      8    500   0.00e+00     0.0  3.82e+01  224.8     N    N    N    N    4
+
+
+Device result: answers matched to within 0.000732422
+
+# devices: 1
+
+Device is a Tesla T4, capability: 7.5
+Clock speed: 1590.000000 MHz
+# cores: 40
+
+Global memory: 14.560913GB
+Memory Clock Rate (MHz): 5001.000000
+Memory Bus Width (bits): 256
+Peak Memory Bandwidth (GB/s): 320.064000
+L2 Cache size: (KB): 4096.000000
+ECC Enabled
+Device shares a unified address space with the host
+CUDA Driver version: 11060, runtime version: 10010
+
+ capability 7.5
+n: 4096, tx: 4, ty: 4, gridX: 128, gridY: 128, reps: 100, epsilon: 0.00146484
+
+Using Single precision arithmetic
+
+
+Device computation time: 60.957136 sec. [225.468194 gflops]
+
+     N     TX     TY   Reps       t_h     GF_h       t_d   GF_d   Host?  L1? Rnd?  BT?  SHM
+@  4096     8      8    100   0.00e+00     0.0  6.10e+01  225.5     N    N    N    N    4
+
+
+Device result: answers matched to within 0.00146484
+
